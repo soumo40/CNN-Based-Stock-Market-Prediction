@@ -1,4 +1,4 @@
-# Seasons-of-Code
+
 This repository stores all the code which is a part of the project 'CNN based stock market prediction'
 
 ## Week 1-3: Checkpoint 1
@@ -22,27 +22,3 @@ The model was automated using Flask and tested on new market data in NIFTY50. Fo
 ## Instructions for running code
 All code can be run on Jupyter Notebooks or Google Colab. The app.py file needs to be run on VS code with anaconda environment.
 
-## Description of files
-
-Week 1-3 code: https://github.com/sautrikc/Seasons-of-Code/blob/main/Week_1_3_Checkpoint_1.ipynb <br />
-Week 5 Mini Project: https://github.com/sautrikc/Seasons-of-Code/blob/main/Week_5_3D_CNN_for_CT_scans.ipynb <br />
-Week 6 (Summary of research paper) : https://github.com/sautrikc/Seasons-of-Code/blob/main/Week%206_Paper%20Summary.docx <br />
-Week 7 (code): https://github.com/sautrikc/Seasons-of-Code/blob/main/Week_7_Implementation_of_the_paper.ipynb <br />
-Week 7 (summary): https://github.com/sautrikc/Seasons-of-Code/blob/main/Week%207_Summary.docx <br />
-Week 8 (code): https://github.com/sautrikc/Seasons-of-Code/blob/main/Week_8_Tweaking_the_model.ipynb <br />
-Week 8 (summary): https://github.com/sautrikc/Seasons-of-Code/blob/main/Week%208_Summary.docx <br />
-Week 9 (code): https://github.com/sautrikc/Seasons-of-Code/blob/main/Week_9_Implementing_LeNet_5.ipynb || https://github.com/sautrikc/Seasons-of-Code/blob/main/Week_9_Implementing_AlexNet.ipynb <br />
-Week 9 (summary): https://github.com/sautrikc/Seasons-of-Code/blob/main/Week%209_Summary.docx <br />
-Week 10 (code):  https://github.com/sautrikc/Seasons-of-Code/blob/main/Week_10_Incorporating_additional_markets_.ipynb  <br />
-Week 10 (summary): https://github.com/sautrikc/Seasons-of-Code/blob/main/Week%2010_Summary.docx <br /> <br />
-
-Flask application file links:
-Python code: https://github.com/sautrikc/Seasons-of-Code/blob/main/app.py <br />
-HTML folder: https://github.com/sautrikc/Seasons-of-Code/tree/main/templates <br />
-Data: https://github.com/sautrikc/Seasons-of-Code/tree/main/Data <br />
-Model: https://drive.google.com/file/d/1Geb878SrcgZ4tYICqFVP22DuGOyK-jvA/view?usp=sharing <br /> <br />
-
-Final PPT: https://github.com/sautrikc/Seasons-of-Code/blob/main/Final_PPT.pptx <br />
-Video Demonstration: https://github.com/sautrikc/Seasons-of-Code/blob/main/Project_Video.mp4 <br />
-Research Paper: https://github.com/sautrikc/Seasons-of-Code/blob/main/CNNpred_CNN%20Based%20Stock%20Market%20Prediction.pdf <br />
-Final Documentation: https://github.com/sautrikc/Seasons-of-Code/blob/main/Sautrik%20Chaudhuri_CNN_SMP_Final%20Doc.docx
